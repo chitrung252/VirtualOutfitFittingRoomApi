@@ -25,5 +25,7 @@ namespace DataService.Models.Entities.Services
         public ProductService(DataService.BaseConnect.IUnitOfWork unitOfWork, Repositories.IProductRepository repository) : base(unitOfWork, repository)
         {
         }
+
+       
     }
 }

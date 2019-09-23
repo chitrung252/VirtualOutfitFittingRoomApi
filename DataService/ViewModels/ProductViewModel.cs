@@ -6,25 +6,19 @@ using System.Threading.Tasks;
 
 namespace DataService.ViewModels
 {
-    public partial class ProductViewModel
+   public class ProductAPIViewModel : DataService.ViewModels.BaseEntityViewModel<DataService.Models.Entities.Product>
     {
-    }
+        public int ProductID { get; set; }
+        public string ProductName { get; set; }
+        public Nullable<double> ProductPrice { get; set; }
+        public string Description { get; set; }
+        public Nullable<System.DateTime> DateCreated { get; set; }
+        public Nullable<System.DateTime> DateModified { get; set; }
+        public Nullable<bool> IsActived { get; set; }
+        public Nullable<bool> IsDeleted { get; set; }
+        public Nullable<int> CategoryID { get; set; }
 
-    public class SpecialProductViewModel
-    {
-        public int catID { get; set; }
-        public int productID { get; set; }
-        public string productName { get; set; }
-        public string picURL { get; set; }
-        public string description { get; set; }
-        public double price { get; set; }
-        public string seoName { get; set; }
-        public string seoDecription { get; set; }
-        public string seoKeyWord { get; set; }
-        public string url { get; set; }
-        public int RatingTotal { get; set; }
-        public int NumOfUserVoting { get; set; }
-        public Boolean IsFavourite { get; set; }
-        public List<SpecialProductViewModel> ExtraList { get; set; }
+        public ProductAPIViewModel() : base() { }
+        public ProductAPIViewModel(DataService.Models.Entities.Product entity) : base(entity) { }
     }
 }

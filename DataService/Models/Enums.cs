@@ -1425,6 +1425,7 @@ namespace DataService.Models
         PhoneExist = 60,
         RateValid = 61,
         BearerTokenNotFound = 62,
+        Fail = 63,
     }
     public enum RequestHistoryTypeEnum
     {

@@ -10,6 +10,7 @@ using System.Web.Routing;
 using AutoMapper;
 //using DataService.APIViewModels;
 using DataService.Models.Entities;
+using DataService.ViewModels;
 
 namespace SkyConnect.API
 {
@@ -34,6 +35,7 @@ namespace SkyConnect.API
 
         private void AdditionalMapperConfig(IMapperConfigurationExpression obj)
         {
+            obj.CreateMap<Product, ProductAPIViewModel>().ReverseMap();
             //obj.CreateMap<Card, CardAPIViewModel>();
             //obj.CreateMap<CardAPIViewModel, Card>();
             //obj.CreateMap<Membership, MembershipAPIViewModel>();

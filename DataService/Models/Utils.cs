@@ -247,54 +247,6 @@ namespace DataService.Models
             return result;
         }
 
-        public static async Task<string> CreateOrUpdateLanguageValue<TEntity>(this IBaseService<TEntity> service, string keyName, string value, int languageId, int storeId)
-            where TEntity : class, IEntity
-        {
-            Expression<Func<LanguageKey, bool>> languageKeyExpression = q => q.Name == keyName && q.StoreId == storeId;
-
-            var languageKeyRepo = DependencyUtils.Resolve<ILanguageKeyRepository>();
-            var languageValueRepo = DependencyUtils.Resolve<ILanguageValueRepository>();
-
-            var languageKey = await languageKeyRepo.FirstOrDefaultActiveAsync(languageKeyExpression);
-
-            // Create if there is no language key exist yet
-            if (languageKey == null)
-            {
-                // Generate keyname if needed
-                if (string.IsNullOrEmpty(keyName))
-                {
-                    do
-                    {
-                        keyName = Guid.NewGuid().ToString();
-                    } while ((await languageKeyRepo.FirstOrDefaultActiveAsync(languageKeyExpression)) != null);
-                }
-
-                languageKey = new LanguageKey()
-                {
-                    Name = keyName,
-                    StoreId = storeId,
-                    Active = true,
-                };
-                languageKeyRepo.Add(languageKey);
-            }
-
-            // Create/update value
-            var languageValue = await languageValueRepo.FirstOrDefaultActiveAsync(q => q.LanguageKey.Name == keyName && q.LanguageId == languageId);
-            if (languageValue == null)
-            {
-                languageValue = new LanguageValue()
-                {
-                    LanguageId = languageId,
-                    LanguageKey = languageKey,
-                    Active = true,
-                };
-                languageValueRepo.Add(languageValue);
-            }
-            languageValue.Value = value;
-
-            await service.SaveAsync();
-            return keyName;
-        }
 
         /// <summary>
         /// Using this method to get verify if a string contains another string (case and accent insensitive)
@@ -557,36 +509,9 @@ namespace DataService.Models
         }
         #endregion
 
-        public static int GetBrandId()
-        {
-            if (HttpContext.Current.Session["BrandId"] == null)
-            {
-                var _db = new DataEntities();
+       
 
-                var Username = HttpContext.Current.User.Identity.Name;
-                AspNetUser user = _db.AspNetUsers.FirstOrDefault(u => u.UserName.Equals(Username));
-
-                //var Brand = _publisherUserService.GetPublisherUserByUserId(User.Id).FirstOrDefault().Brand;
-                if (user != null)
-                {
-                    var currentUser = _db.AspNetUsers.FirstOrDefault(p => p.Id == user.Id);
-                    if (currentUser != null)
-                    {
-                        HttpContext.Current.Session["BrandId"] = currentUser.BrandId;
-
-                    }
-                }
-
-            }
-            return HttpContext.Current.Session["BrandId"] == null ? -1 : (int)HttpContext.Current.Session["BrandId"];
-        }
-
-        public static string getBrandName(int brandId)
-        {
-            var brandApi = new BrandApi();
-            var brandName = brandApi.Get(brandId).BrandName;
-            return brandName;
-        }
+        
 
         //public static Store GetStore()
         //{
@@ -629,12 +554,7 @@ namespace DataService.Models
         //    return firstStore.ToEntity();
         //}
 
-        public static Store GetStore(int storeId)
-        {
-            var storeApi = new StoreApi();
-            var store = storeApi.Get(storeId).ToEntity();
-            return store;
-        }
+      
         //public static IEnumerable<int> GetStoreId(int brandId)
         //{
         //    if (HttpContext.Current.Session["StoreId"] == null)
@@ -701,40 +621,6 @@ namespace DataService.Models
             }
         }
 
-        public static async Task PostNotiMessageToStores(IEnumerable<StoreViewModel> stores, int messageType)
-        {
-            string message = "";
-            switch (messageType)
-            {
-                case (int)NotifyMessageType.AccountChange:
-                    message = "Danh sách tài khoản vừa được cập nhật";
-                    break;
-                case (int)NotifyMessageType.CategoryChange:
-                    message = "Danh sách loại sản phẩm vừa được cập nhật";
-                    break;
-                case (int)NotifyMessageType.ProductChange:
-                    message = "Danh sách sản phẩm vừa được cập nhật";
-                    break;
-                case (int)NotifyMessageType.PromotionChange:
-                    message = "Danh sách khuyến mãi vừa được cập nhật";
-                    break;
-                case (int)NotifyMessageType.NoThing:
-                default:
-                    message = "Nothing";
-                    return;
-            }
-            foreach (var store in stores)
-            {
-                var msg = new NotifyMessage
-                {
-                    StoreId = store.ID,
-                    StoreName = store.Name,
-                    NotifyType = messageType,
-                    Content = message
-                };
-                await RequestNotiMessage(msg);
-            }
-        }
 
         public static async Task RequestOrderWebApi(NotifyOrder msg)
         {
@@ -786,129 +672,6 @@ namespace DataService.Models
             return milliseconds;
         }
 
-        public static bool SendSMS(string phone, string message, int brandId)
-        {
-            try
-            {
-                var brandApi = new BrandApi();
-                var brand = brandApi.Get(brandId);
-                if (brand != null)
-                {
-                    if (!String.IsNullOrEmpty(brand.ApiSMSKey))
-                    {
-                        var APIKey = brand.ApiSMSKey;
-                        var SecretKey = brand.SecurityApiSMSKey;
-                        int SmsType = brand.SMSType.Value;//Loại tin nhắn 1: Brandname Quảng cáo, 2: Brandname CSKH :6 đầu số cố định 8755    
-                        var BrandName = brand.BrandNameSMS;
-                        var url = "";
-                        if (SmsType == 2 || SmsType == 1)
-                        {
-                            url = "http://api.esms.vn/MainService.svc/xml/SendMultipleSMSBrandname/";
-                        }
-                        else
-                        {
-                            url = "http://api.esms.vn/MainService.svc/xml/SendMultipleMessage_V2/";
-                        }
-
-                        // declare ascii encoding
-                        UTF8Encoding encoding = new UTF8Encoding();
-
-                        string strResult = string.Empty;
-
-                        string customers = "";
-
-                        string[] lstPhone = phone.Split(',');
-
-                        for (int i = 0; i < lstPhone.Count(); i++)
-                        {
-                            customers = customers + @"<CUSTOMER>"
-                                            + "<PHONE>" + lstPhone[i] + "</PHONE>"
-                                            + "</CUSTOMER>";
-                        }
-                        string SampleXml = "";
-                        if (SmsType == 2 || SmsType == 1)
-                        {
-                            SampleXml = @"<RQST>"
-                                          + "<APIKEY>" + APIKey + "</APIKEY>"
-                                          + "<SECRETKEY>" + SecretKey + "</SECRETKEY>"
-                                          + "<BRANDNAME>" + BrandName + "</BRANDNAME>"
-                                          + "<SMSTYPE>" + SmsType + "</SMSTYPE>"//SMSTYPE 1: Brandname Quảng cáo, 2: Brandname CSKH
-                                          + "<CONTENT>" + message + "</CONTENT>"
-                                          + "<CONTACTS>" + customers + "</CONTACTS>"
-                                          + "</RQST>";
-                        }
-                        else
-                        {
-                            SampleXml = @"<RQST>"
-                                               + "<APIKEY>" + APIKey + "</APIKEY>"
-                                               + "<SECRETKEY>" + SecretKey + "</SECRETKEY>"
-                                               + "<ISFLASH>0</ISFLASH>"
-                                               + "<SMSTYPE>" + SmsType + "</SMSTYPE>"//SMSTYPE 1: Brandname Quảng cáo, 2: Brandname CSKH
-                                               + "<CONTENT>" + message + "</CONTENT>"
-                                               + "<CONTACTS>" + customers + "</CONTACTS>"
-                                               + "</RQST>";
-
-                        }
-
-                        if (SampleXml != "")
-                        {
-                            string postData = SampleXml;
-
-                            // convert xmlstring to byte using ascii encoding
-                            byte[] data = encoding.GetBytes(postData);
-
-                            // declare httpwebrequet wrt url defined above
-                            HttpWebRequest webrequest = (HttpWebRequest)WebRequest.Create(url);
-                            // set method as post
-                            webrequest.Method = "POST";
-                            webrequest.Timeout = 500000;
-                            // set content type
-                            webrequest.ContentType = "application/x-www-form-urlencoded; charset=utf-8";
-                            // set content length
-                            webrequest.ContentLength = data.Length;
-                            // get stream data out of webrequest object
-                            Stream newStream = webrequest.GetRequestStream();
-                            newStream.Write(data, 0, data.Length);
-                            newStream.Close();
-                            // declare & read response from service
-                            HttpWebResponse webresponse = (HttpWebResponse)webrequest.GetResponse();
-
-                            // set utf8 encoding
-                            Encoding enc = System.Text.Encoding.GetEncoding("utf-8");
-                            // read response stream from response object
-                            StreamReader loResponseStream =
-                                new StreamReader(webresponse.GetResponseStream(), enc);
-                            // read string from stream data
-                            strResult = loResponseStream.ReadToEnd();
-                            // close the stream object
-                            loResponseStream.Close();
-                            // close the response object
-                            webresponse.Close();
-                            // below steps remove unwanted data from response string
-                            strResult = strResult.Replace("</string>", "");
-                            if (webresponse.StatusCode == HttpStatusCode.OK || webresponse.StatusDescription.Equals("OK"))
-                            {
-                                return true;
-                            }
-                            else
-                            {
-                                return false;
-                            }
-                        }
-                    }
-                    else
-                    {
-                        return false;
-                    }
-                }
-                return false;
-            }
-            catch (Exception)
-            {
-                return false;
-            }
-
-        }
 
 
         public static class ShortCodes

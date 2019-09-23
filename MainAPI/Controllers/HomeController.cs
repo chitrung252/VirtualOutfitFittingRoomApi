@@ -17,11 +17,11 @@ namespace SkyConnect.API.Controllers
         public ActionResult Index()
         {
             ViewBag.Title = "Home Page";
-            using (StreamReader sr = new StreamReader(Server.MapPath("~/Configuration/Momo.config.json")))
-            {
-                var a = JsonConvert.DeserializeObject<MomoConfig>(sr.ReadToEnd());
+            //using (StreamReader sr = new StreamReader(Server.MapPath("~/Configuration/Momo.config.json")))
+            //{
+            //    var a = JsonConvert.DeserializeObject<MomoConfig>(sr.ReadToEnd());
 
-            }
+            //}
             return View();
         }
     }
