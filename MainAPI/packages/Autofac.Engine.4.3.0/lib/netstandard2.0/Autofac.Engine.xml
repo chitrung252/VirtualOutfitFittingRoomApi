@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Autofac.Engine</name>
+    </assembly>
+    <members>
+        <member name="T:Autofac.Engine.EngineContext">
+            <summary>
+            EngineContext
+            </summary>
+        </member>
+        <member name="M:Autofac.Engine.EngineContext.Resolve``1">
+            <summary>
+            Retrieve a service from the context.
+            </summary>
+            <typeparam name="T">The type to which the result will be cast.</typeparam>
+            <returns>The component instance that provides the service.</returns>
+            <exception cref="T:Autofac.Core.Registration.ComponentNotRegisteredException"/>
+            <exception cref="T:Autofac.Core.DependencyResolutionException"/>
+        </member>
+        <member name="M:Autofac.Engine.EngineContext.Resolve(System.Type)">
+            <summary>
+            Retrieve a service from the context.
+            </summary>
+            <returns>The component instance that provides the service.</returns>
+            <exception cref="T:Autofac.Core.Registration.ComponentNotRegisteredException"/>
+            <exception cref="T:Autofac.Core.DependencyResolutionException"/>
+        </member>
+        <member name="M:Autofac.Engine.EngineContext.ResolveAll``1">
+            <summary>
+            Retrieve a service from the context.
+            </summary>
+            <typeparam name="T">The type to which the result will be cast.</typeparam>
+            <returns>The component instance that provides the service.</returns>
+            <exception cref="T:Autofac.Core.Registration.ComponentNotRegisteredException"/>
+            <exception cref="T:Autofac.Core.DependencyResolutionException"/>
+        </member>
+        <member name="M:Autofac.Engine.EngineContext.Resolve``1(System.String)">
+            <summary>
+            Retrieve a service from the context.
+            </summary>
+            <typeparam name="T">The type to which the result will be cast.</typeparam>
+            <param name="key">Key of the service.</param>
+            <returns>The component instance that provides the service.</returns>
+            <exception cref="T:Autofac.Core.Registration.ComponentNotRegisteredException"/>
+            <exception cref="T:Autofac.Core.DependencyResolutionException"/>
+        </member>
+        <member name="M:Autofac.Engine.EngineContext.ResolveAll``1(System.String)">
+            <summary>
+            Retrieve a service from the context.
+            </summary>
+            <typeparam name="T">The type to which the result will be cast.</typeparam>
+            <param name="key">Key of the service.</param>
+            <returns>The component instance that provides the service.</returns>
+            <exception cref="T:Autofac.Core.Registration.ComponentNotRegisteredException"/>
+            <exception cref="T:Autofac.Core.DependencyResolutionException"/>
+        </member>
+        <member name="M:Autofac.Engine.EngineContext.TryResolve``1(``0@)">
+            <summary>
+            Try to retrieve a service from the context.
+            </summary>
+            <typeparam name="T">The service type to resolve.</typeparam>
+            <param name="instance">The resulting component instance providing the service, or default(T).</param>
+            <returns>True if a component providing the service is available.</returns>
+            <exception cref="T:Autofac.Core.DependencyResolutionException"/>
+        </member>
+        <member name="M:Autofac.Engine.EngineContext.TryResolve(System.Type,System.Object@)">
+            <summary>
+            Try to retrieve a service from the context.
+            </summary>
+            <param name="serviceType">The service type to resolve.</param>
+            <param name="instance"> resulting component instance providing the service, or null.</param>
+            <returns>True if a component providing the service is available.</returns>
+            <exception cref="T:Autofac.Core.DependencyResolutionException"/>
+        </member>
+        <member name="M:Autofac.Engine.EngineContext.ResolveUnregistered(System.Type)">
+            <summary>
+            Try to retrieve an unregistered service from the context.
+            </summary>
+            <param name="type">The unregistered service type to resolve.</param>
+            <returns>The component instance that provides the service.</returns>
+            <exception cref="T:Autofac.Core.DependencyResolutionException"/>
+        </member>
+        <member name="M:Autofac.Engine.EngineContext.TryResolveUnregistered(System.Type,System.Object@)">
+            <summary>
+            Try to retrieve an unregistered service from the context.
+            </summary>
+            <param name="type">The unregistered service type to resolve.</param>
+            <param name="instance"> resulting component instance providing the service, or null.</param>
+            <returns>True if a component providing the service is available.</returns>
+            <exception cref="T:Autofac.Core.DependencyResolutionException"/>
+        </member>
+        <member name="T:Autofac.Engine.RegistrationExtensions">
+            <summary>
+            扩展 ContainerBuilder (实现Assembly 的匹配注册)
+            </summary>
+        </member>
+        <member name="M:Autofac.Engine.RegistrationExtensions.RegisterAssemblyTypes(Autofac.ContainerBuilder,Autofac.Engine.ITypeFinder,System.String)">
+            <summary>
+            匹配注册
+            </summary>
+            <example>
+            例[e.g]：
+                containerBuidler.RegisterAssemblyTypes(typeFinder,"Service").AsImplementedInterfaces();
+            </example>
+            <remarks>
+            main code : {  builder.RegisterAssemblyTypes(typeFinder.GetAssemblies(...)).Where(e => e.Name.EndsWith(typeEndName)); }
+            </remarks>
+            <param name="builder">ContainerBuilder</param>
+            <param name="typeFinder">扫描的程序集</param>
+            <param name="typeEndName">匹配类名的后缀（是实例名，不是接口名[name of Implemented type,Is not the name of the interface]）</param>
+            <returns></returns>
+        </member>
+        <member name="M:Autofac.Engine.RegistrationExtensions.RegisterAssemblyTypes(Autofac.ContainerBuilder,System.Reflection.Assembly[],System.String)">
+            <summary>
+            匹配注册
+            </summary>
+            <example>
+            例[e.g]：
+                containerBuidler.RegisterAssemblyTypes(typeFinder,"Service").AsImplementedInterfaces();
+            </example>
+            <remarks>
+            main code : {  builder.RegisterAssemblyTypes(typeFinder.GetAssemblies(...)).Where(e => e.Name.EndsWith(typeEndName)); }
+            </remarks>
+            <param name="builder">ContainerBuilder</param>
+            <param name="typeFinder">扫描的程序集</param>
+            <param name="assembleFullname">程序集全称，含.dll（如：MSSurfing.WebApi.dll）</param>
+            <param name="typeEndName">匹配类名的后缀（是实例名，不是接口名[name of Implemented type,Is not the name of the interface]）</param>
+            <returns></returns>
+        </member>
+        <member name="M:Autofac.Engine.RegistrationExtensions.RegisterAssemblyTypes(Autofac.ContainerBuilder,Autofac.Engine.ITypeFinder,System.String,System.String)">
+            <summary>
+            匹配注册
+            </summary>
+            <example>
+            例[e.g]：
+                containerBuidler.RegisterAssemblyTypes(typeFinder,"MSSurfing.Service.dll","Service").AsImplementedInterfaces();
+            </example>
+            <remarks>
+            main code : {  builder.RegisterAssemblyTypes(typeFinder.GetAssemblies(...)).Where(e => e.Name.EndsWith(typeEndName)); }
+            </remarks>
+            <param name="builder">ContainerBuilder</param>
+            <param name="typeFinder">扫描的程序集</param>
+            <param name="assembleFullname">程序集全称，含.dll（如：MSSurfing.WebApi.dll）</param>
+            <param name="typeEndName">匹配类名的后缀（是实例名，不是接口名[name of Implemented type,Is not the name of the interface]）</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

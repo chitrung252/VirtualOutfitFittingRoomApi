@@ -1,0 +1,24 @@
+diff a/DataService/DataService/obj/Debug/edmxResourcesToEmbed/Models/Entities/DataModel.csdl b/DataService/DataService/obj/Debug/edmxResourcesToEmbed/Models/Entities/DataModel.csdl	(rejected hunks)
+@@ -1005,6 +1007,22 @@
+       <End Role="User" EntitySet="Users" />
+     </AssociationSet>
+   </EntityContainer>
++  <EntityType Name="C__MigrationHistory">
++    <Key>
++      <PropertyRef Name="MigrationId" />
++      <PropertyRef Name="ContextKey" />
++    </Key>
++    <Property Name="MigrationId" Type="String" Nullable="false" MaxLength="150" FixedLength="false" Unicode="true" />
++    <Property Name="ContextKey" Type="String" Nullable="false" MaxLength="300" FixedLength="false" Unicode="true" />
++    <Property Name="Model" Type="Binary" Nullable="false" MaxLength="Max" FixedLength="false" />
++    <Property Name="ProductVersion" Type="String" Nullable="false" MaxLength="32" FixedLength="false" Unicode="true" />
++  </EntityType>
++  <EntityType Name="C_TransactionIndex_2244ceaa_24f5_4fde_bd5f_baf8ea08cdc4">
++    <Key>
++      <PropertyRef Name="Id" />
++    </Key>
++    <Property Name="Id" Type="Guid" Nullable="false" />
++  </EntityType>
+   <EntityType Name="Account">
+     <Key>
+       <PropertyRef Name="AccountID" />

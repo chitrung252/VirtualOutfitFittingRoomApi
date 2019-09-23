@@ -1,0 +1,447 @@
+E:\Wisky_Unideli\SourceCode\Unideli\DataService\DataService\bin\Debug\DataService.dll.config
+E:\Wisky_Unideli\SourceCode\Unideli\DataService\DataService\bin\Debug\DataService.dll
+E:\Wisky_Unideli\SourceCode\Unideli\DataService\DataService\bin\Debug\DataService.pdb
+E:\Wisky_Unideli\SourceCode\Unideli\DataService\DataService\bin\Debug\AutoMapper.dll
+E:\Wisky_Unideli\SourceCode\Unideli\DataService\DataService\bin\Debug\AutoMapper.xml
+E:\Wisky_Unideli\SourceCode\Unideli\DataService\DataService\obj\Debug\DataService.csprojResolveAssemblyReference.cache
+E:\Wisky_Unideli\SourceCode\Unideli\DataService\DataService\obj\Debug\DataService.csproj.CoreCompileInputs.cache
+E:\Wisky_Unideli\SourceCode\Unideli\DataService\DataService\obj\Debug\DataService.dll
+E:\Wisky_Unideli\SourceCode\Unideli\DataService\DataService\obj\Debug\DataService.pdb
+E:\Wisky_Repository\DataService\DataService\bin\Debug\DataService.dll.config
+E:\Wisky_Repository\DataService\DataService\bin\Debug\DataService.dll
+E:\Wisky_Repository\DataService\DataService\bin\Debug\DataService.pdb
+E:\Wisky_Repository\DataService\DataService\bin\Debug\Autofac.dll
+E:\Wisky_Repository\DataService\DataService\bin\Debug\EntityFramework.dll
+E:\Wisky_Repository\DataService\DataService\bin\Debug\EntityFramework.SqlServer.dll
+E:\Wisky_Repository\DataService\DataService\bin\Debug\Autofac.xml
+E:\Wisky_Repository\DataService\DataService\bin\Debug\EntityFramework.xml
+E:\Wisky_Repository\DataService\DataService\bin\Debug\EntityFramework.SqlServer.xml
+E:\Wisky_Repository\DataService\DataService\obj\Debug\DataService.csproj.CoreCompileInputs.cache
+E:\Wisky_Repository\DataService\DataService\obj\Debug\DataService.dll
+E:\Wisky_Repository\DataService\DataService\obj\Debug\DataService.pdb
+E:\Wisky_Repository\DataService\DataService\obj\Debug\DataService.csprojResolveAssemblyReference.cache
+D:\Work\DataRepository\DataService\DataService\obj\Debug\DataService.csproj.CoreCompileInputs.cache
+D:\Work\DataRepository\DataService\DataService\bin\Debug\DataService.dll.config
+D:\Work\DataRepository\DataService\DataService\bin\Debug\DataService.dll
+D:\Work\DataRepository\DataService\DataService\bin\Debug\DataService.pdb
+D:\Work\DataRepository\DataService\DataService\bin\Debug\Autofac.dll
+D:\Work\DataRepository\DataService\DataService\bin\Debug\Autofac.Integration.Mvc.dll
+D:\Work\DataRepository\DataService\DataService\bin\Debug\AutoMapper.dll
+D:\Work\DataRepository\DataService\DataService\bin\Debug\EntityFramework.dll
+D:\Work\DataRepository\DataService\DataService\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\DataRepository\DataService\DataService\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Work\DataRepository\DataService\DataService\bin\Debug\System.ValueTuple.dll
+D:\Work\DataRepository\DataService\DataService\bin\Debug\System.Web.Helpers.dll
+D:\Work\DataRepository\DataService\DataService\bin\Debug\System.Web.Mvc.dll
+D:\Work\DataRepository\DataService\DataService\bin\Debug\System.Web.Razor.dll
+D:\Work\DataRepository\DataService\DataService\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Work\DataRepository\DataService\DataService\bin\Debug\System.Web.WebPages.dll
+D:\Work\DataRepository\DataService\DataService\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Work\DataRepository\DataService\DataService\bin\Debug\Autofac.xml
+D:\Work\DataRepository\DataService\DataService\bin\Debug\Autofac.Integration.Mvc.xml
+D:\Work\DataRepository\DataService\DataService\bin\Debug\AutoMapper.xml
+D:\Work\DataRepository\DataService\DataService\bin\Debug\EntityFramework.xml
+D:\Work\DataRepository\DataService\DataService\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\DataRepository\DataService\DataService\bin\Debug\System.ValueTuple.xml
+D:\Work\DataRepository\DataService\DataService\bin\Debug\System.Web.Helpers.xml
+D:\Work\DataRepository\DataService\DataService\bin\Debug\System.Web.Mvc.xml
+D:\Work\DataRepository\DataService\DataService\bin\Debug\System.Web.Razor.xml
+D:\Work\DataRepository\DataService\DataService\bin\Debug\System.Web.WebPages.xml
+D:\Work\DataRepository\DataService\DataService\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Work\DataRepository\DataService\DataService\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Work\DataRepository\DataService\DataService\obj\Debug\DataService.csproj.CopyComplete
+D:\Work\DataRepository\DataService\DataService\obj\Debug\DataService.dll
+D:\Work\DataRepository\DataService\DataService\obj\Debug\DataService.pdb
+D:\Wisky\Sky admin\Wisky.SkyAdmin.Manage\DataService\DataService\obj\Debug\DataService.csprojResolveAssemblyReference.cache
+D:\Wisky\Sky admin\Wisky.SkyAdmin.Manage\DataService\DataService\obj\Debug\DataService.csproj.CoreCompileInputs.cache
+D:\Wisky\Sky admin\Wisky.SkyAdmin.Manage\DataService\DataService\obj\Debug\DataService.dll
+D:\Wisky\Sky admin\Wisky.SkyAdmin.Manage\DataService\DataService\obj\Debug\DataService.pdb
+D:\Wisky\Sky admin\Wisky.SkyAdmin.Manage\DataService\DataService\bin\Debug\DataService.dll.config
+D:\Wisky\Sky admin\Wisky.SkyAdmin.Manage\DataService\DataService\bin\Debug\DataService.dll
+D:\Wisky\Sky admin\Wisky.SkyAdmin.Manage\DataService\DataService\bin\Debug\DataService.pdb
+D:\Wisky\Sky admin\Wisky.SkyAdmin.Manage\DataService\DataService\bin\Debug\Autofac.dll
+D:\Wisky\Sky admin\Wisky.SkyAdmin.Manage\DataService\DataService\bin\Debug\Autofac.Integration.Mvc.dll
+D:\Wisky\Sky admin\Wisky.SkyAdmin.Manage\DataService\DataService\bin\Debug\AutoMapper.dll
+D:\Wisky\Sky admin\Wisky.SkyAdmin.Manage\DataService\DataService\bin\Debug\EntityFramework.dll
+D:\Wisky\Sky admin\Wisky.SkyAdmin.Manage\DataService\DataService\bin\Debug\EntityFramework.SqlServer.dll
+D:\Wisky\Sky admin\Wisky.SkyAdmin.Manage\DataService\DataService\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Wisky\Sky admin\Wisky.SkyAdmin.Manage\DataService\DataService\bin\Debug\System.Web.Helpers.dll
+D:\Wisky\Sky admin\Wisky.SkyAdmin.Manage\DataService\DataService\bin\Debug\System.Web.Mvc.dll
+D:\Wisky\Sky admin\Wisky.SkyAdmin.Manage\DataService\DataService\bin\Debug\System.Web.Razor.dll
+D:\Wisky\Sky admin\Wisky.SkyAdmin.Manage\DataService\DataService\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Wisky\Sky admin\Wisky.SkyAdmin.Manage\DataService\DataService\bin\Debug\System.Web.WebPages.dll
+D:\Wisky\Sky admin\Wisky.SkyAdmin.Manage\DataService\DataService\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Wisky\Sky admin\Wisky.SkyAdmin.Manage\DataService\DataService\bin\Debug\Autofac.xml
+D:\Wisky\Sky admin\Wisky.SkyAdmin.Manage\DataService\DataService\bin\Debug\Autofac.Integration.Mvc.xml
+D:\Wisky\Sky admin\Wisky.SkyAdmin.Manage\DataService\DataService\bin\Debug\AutoMapper.xml
+D:\Wisky\Sky admin\Wisky.SkyAdmin.Manage\DataService\DataService\bin\Debug\EntityFramework.xml
+D:\Wisky\Sky admin\Wisky.SkyAdmin.Manage\DataService\DataService\bin\Debug\EntityFramework.SqlServer.xml
+D:\Wisky\Sky admin\Wisky.SkyAdmin.Manage\DataService\DataService\bin\Debug\System.Web.Helpers.xml
+D:\Wisky\Sky admin\Wisky.SkyAdmin.Manage\DataService\DataService\bin\Debug\System.Web.Mvc.xml
+D:\Wisky\Sky admin\Wisky.SkyAdmin.Manage\DataService\DataService\bin\Debug\System.Web.Razor.xml
+D:\Wisky\Sky admin\Wisky.SkyAdmin.Manage\DataService\DataService\bin\Debug\System.Web.WebPages.xml
+D:\Wisky\Sky admin\Wisky.SkyAdmin.Manage\DataService\DataService\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Wisky\Sky admin\Wisky.SkyAdmin.Manage\DataService\DataService\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Project\OJT\dataService\DataService\DataService\obj\Debug\DataService.csprojResolveAssemblyReference.cache
+D:\Project\OJT\dataService\DataService\DataService\obj\Debug\DataService.csproj.CoreCompileInputs.cache
+D:\Project\OJT\dataService\DataService\DataService\obj\Debug\DataService.dll
+D:\Project\OJT\dataService\DataService\DataService\obj\Debug\DataService.pdb
+D:\Project\OJT\dataService\DataService\DataService\bin\Debug\DataService.dll.config
+D:\Project\OJT\dataService\DataService\DataService\bin\Debug\DataService.dll
+D:\Project\OJT\dataService\DataService\DataService\bin\Debug\DataService.pdb
+D:\Project\OJT\dataService\DataService\DataService\bin\Debug\Autofac.dll
+D:\Project\OJT\dataService\DataService\DataService\bin\Debug\Autofac.Integration.Mvc.dll
+D:\Project\OJT\dataService\DataService\DataService\bin\Debug\AutoMapper.dll
+D:\Project\OJT\dataService\DataService\DataService\bin\Debug\EntityFramework.dll
+D:\Project\OJT\dataService\DataService\DataService\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\OJT\dataService\DataService\DataService\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Project\OJT\dataService\DataService\DataService\bin\Debug\System.Web.Helpers.dll
+D:\Project\OJT\dataService\DataService\DataService\bin\Debug\System.Web.Mvc.dll
+D:\Project\OJT\dataService\DataService\DataService\bin\Debug\System.Web.Razor.dll
+D:\Project\OJT\dataService\DataService\DataService\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Project\OJT\dataService\DataService\DataService\bin\Debug\System.Web.WebPages.dll
+D:\Project\OJT\dataService\DataService\DataService\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Project\OJT\dataService\DataService\DataService\bin\Debug\Autofac.xml
+D:\Project\OJT\dataService\DataService\DataService\bin\Debug\Autofac.Integration.Mvc.xml
+D:\Project\OJT\dataService\DataService\DataService\bin\Debug\AutoMapper.xml
+D:\Project\OJT\dataService\DataService\DataService\bin\Debug\EntityFramework.xml
+D:\Project\OJT\dataService\DataService\DataService\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\OJT\dataService\DataService\DataService\bin\Debug\Newtonsoft.Json.xml
+D:\Project\OJT\dataService\DataService\DataService\bin\Debug\System.Web.Helpers.xml
+D:\Project\OJT\dataService\DataService\DataService\bin\Debug\System.Web.Mvc.xml
+D:\Project\OJT\dataService\DataService\DataService\bin\Debug\System.Web.Razor.xml
+D:\Project\OJT\dataService\DataService\DataService\bin\Debug\System.Web.WebPages.xml
+D:\Project\OJT\dataService\DataService\DataService\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Project\OJT\dataService\DataService\DataService\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Project\OJT\dataService\DataService\DataService\bin\Debug\System.ValueTuple.dll
+D:\Project\OJT\dataService\DataService\DataService\bin\Debug\System.ValueTuple.xml
+F:\DoitsuWorkspace\Unispace\DataRepository\DataService\DataService\bin\Debug\DataService.dll.config
+F:\DoitsuWorkspace\Unispace\DataRepository\DataService\DataService\bin\Debug\DataService.dll
+F:\DoitsuWorkspace\Unispace\DataRepository\DataService\DataService\bin\Debug\DataService.pdb
+F:\DoitsuWorkspace\Unispace\DataRepository\DataService\DataService\bin\Debug\Autofac.dll
+F:\DoitsuWorkspace\Unispace\DataRepository\DataService\DataService\bin\Debug\Autofac.Integration.Mvc.dll
+F:\DoitsuWorkspace\Unispace\DataRepository\DataService\DataService\bin\Debug\AutoMapper.dll
+F:\DoitsuWorkspace\Unispace\DataRepository\DataService\DataService\bin\Debug\EntityFramework.dll
+F:\DoitsuWorkspace\Unispace\DataRepository\DataService\DataService\bin\Debug\EntityFramework.SqlServer.dll
+F:\DoitsuWorkspace\Unispace\DataRepository\DataService\DataService\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\DoitsuWorkspace\Unispace\DataRepository\DataService\DataService\bin\Debug\System.Web.Helpers.dll
+F:\DoitsuWorkspace\Unispace\DataRepository\DataService\DataService\bin\Debug\System.Web.Razor.dll
+F:\DoitsuWorkspace\Unispace\DataRepository\DataService\DataService\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\DoitsuWorkspace\Unispace\DataRepository\DataService\DataService\bin\Debug\System.Web.WebPages.dll
+F:\DoitsuWorkspace\Unispace\DataRepository\DataService\DataService\bin\Debug\System.Web.WebPages.Razor.dll
+F:\DoitsuWorkspace\Unispace\DataRepository\DataService\DataService\bin\Debug\Autofac.xml
+F:\DoitsuWorkspace\Unispace\DataRepository\DataService\DataService\bin\Debug\Autofac.Integration.Mvc.xml
+F:\DoitsuWorkspace\Unispace\DataRepository\DataService\DataService\bin\Debug\AutoMapper.xml
+F:\DoitsuWorkspace\Unispace\DataRepository\DataService\DataService\bin\Debug\EntityFramework.xml
+F:\DoitsuWorkspace\Unispace\DataRepository\DataService\DataService\bin\Debug\EntityFramework.SqlServer.xml
+F:\DoitsuWorkspace\Unispace\DataRepository\DataService\DataService\bin\Debug\System.Web.Helpers.xml
+F:\DoitsuWorkspace\Unispace\DataRepository\DataService\DataService\bin\Debug\System.Web.Razor.xml
+F:\DoitsuWorkspace\Unispace\DataRepository\DataService\DataService\bin\Debug\System.Web.WebPages.xml
+F:\DoitsuWorkspace\Unispace\DataRepository\DataService\DataService\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\DoitsuWorkspace\Unispace\DataRepository\DataService\DataService\bin\Debug\System.Web.WebPages.Razor.xml
+F:\DoitsuWorkspace\Unispace\DataRepository\DataService\DataService\obj\Debug\DataService.csprojAssemblyReference.cache
+F:\DoitsuWorkspace\Unispace\DataRepository\DataService\DataService\obj\Debug\DataService.csproj.CoreCompileInputs.cache
+F:\DoitsuWorkspace\Unispace\DataRepository\DataService\DataService\obj\Debug\DataService.csproj.CopyComplete
+F:\DoitsuWorkspace\Unispace\DataRepository\DataService\DataService\obj\Debug\DataService.dll
+F:\DoitsuWorkspace\Unispace\DataRepository\DataService\DataService\obj\Debug\DataService.pdb
+D:\Project Wisky\Data Repository\DataService\DataService\bin\Debug\DataService.dll.config
+D:\Project Wisky\Data Repository\DataService\DataService\bin\Debug\DataService.dll
+D:\Project Wisky\Data Repository\DataService\DataService\bin\Debug\DataService.pdb
+D:\Project Wisky\Data Repository\DataService\DataService\bin\Debug\Autofac.dll
+D:\Project Wisky\Data Repository\DataService\DataService\bin\Debug\Autofac.Integration.Mvc.dll
+D:\Project Wisky\Data Repository\DataService\DataService\bin\Debug\AutoMapper.dll
+D:\Project Wisky\Data Repository\DataService\DataService\bin\Debug\EntityFramework.dll
+D:\Project Wisky\Data Repository\DataService\DataService\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project Wisky\Data Repository\DataService\DataService\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Project Wisky\Data Repository\DataService\DataService\bin\Debug\System.Web.Helpers.dll
+D:\Project Wisky\Data Repository\DataService\DataService\bin\Debug\System.Web.Razor.dll
+D:\Project Wisky\Data Repository\DataService\DataService\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Project Wisky\Data Repository\DataService\DataService\bin\Debug\System.Web.WebPages.dll
+D:\Project Wisky\Data Repository\DataService\DataService\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Project Wisky\Data Repository\DataService\DataService\bin\Debug\Autofac.xml
+D:\Project Wisky\Data Repository\DataService\DataService\bin\Debug\Autofac.Integration.Mvc.xml
+D:\Project Wisky\Data Repository\DataService\DataService\bin\Debug\AutoMapper.xml
+D:\Project Wisky\Data Repository\DataService\DataService\bin\Debug\EntityFramework.xml
+D:\Project Wisky\Data Repository\DataService\DataService\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project Wisky\Data Repository\DataService\DataService\bin\Debug\Newtonsoft.Json.xml
+D:\Project Wisky\Data Repository\DataService\DataService\bin\Debug\System.ValueTuple.xml
+D:\Project Wisky\Data Repository\DataService\DataService\bin\Debug\System.Web.Helpers.xml
+D:\Project Wisky\Data Repository\DataService\DataService\bin\Debug\System.Web.Razor.xml
+D:\Project Wisky\Data Repository\DataService\DataService\bin\Debug\System.Web.WebPages.xml
+D:\Project Wisky\Data Repository\DataService\DataService\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Project Wisky\Data Repository\DataService\DataService\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Project Wisky\Data Repository\DataService\DataService\obj\Debug\DataService.csprojResolveAssemblyReference.cache
+D:\Project Wisky\Data Repository\DataService\DataService\obj\Debug\DataService.csproj.CoreCompileInputs.cache
+D:\Project Wisky\Data Repository\DataService\DataService\obj\Debug\DataService.dll
+D:\Project Wisky\Data Repository\DataService\DataService\obj\Debug\DataService.pdb
+D:\Develop\OJT\dataService\DataService\DataService\obj\Debug\DataService.csprojAssemblyReference.cache
+D:\Develop\OJT\dataService\DataService\DataService\obj\Debug\DataService.csproj.CoreCompileInputs.cache
+D:\Develop\OJT\dataService\DataService\DataService\bin\Debug\DataService.dll.config
+D:\Develop\OJT\dataService\DataService\DataService\bin\Debug\DataService.dll
+D:\Develop\OJT\dataService\DataService\DataService\bin\Debug\DataService.pdb
+D:\Develop\OJT\dataService\DataService\DataService\bin\Debug\Autofac.dll
+D:\Develop\OJT\dataService\DataService\DataService\bin\Debug\Autofac.Integration.Mvc.dll
+D:\Develop\OJT\dataService\DataService\DataService\bin\Debug\AutoMapper.dll
+D:\Develop\OJT\dataService\DataService\DataService\bin\Debug\BouncyCastle.Crypto.dll
+D:\Develop\OJT\dataService\DataService\DataService\bin\Debug\EntityFramework.dll
+D:\Develop\OJT\dataService\DataService\DataService\bin\Debug\EntityFramework.SqlServer.dll
+D:\Develop\OJT\dataService\DataService\DataService\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Develop\OJT\dataService\DataService\DataService\bin\Debug\Newtonsoft.Json.dll
+D:\Develop\OJT\dataService\DataService\DataService\bin\Debug\System.ValueTuple.dll
+D:\Develop\OJT\dataService\DataService\DataService\bin\Debug\System.Web.Helpers.dll
+D:\Develop\OJT\dataService\DataService\DataService\bin\Debug\System.Web.Mvc.dll
+D:\Develop\OJT\dataService\DataService\DataService\bin\Debug\System.Web.Razor.dll
+D:\Develop\OJT\dataService\DataService\DataService\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Develop\OJT\dataService\DataService\DataService\bin\Debug\System.Web.WebPages.dll
+D:\Develop\OJT\dataService\DataService\DataService\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Develop\OJT\dataService\DataService\DataService\bin\Debug\Autofac.xml
+D:\Develop\OJT\dataService\DataService\DataService\bin\Debug\Autofac.Integration.Mvc.xml
+D:\Develop\OJT\dataService\DataService\DataService\bin\Debug\AutoMapper.xml
+D:\Develop\OJT\dataService\DataService\DataService\bin\Debug\EntityFramework.xml
+D:\Develop\OJT\dataService\DataService\DataService\bin\Debug\EntityFramework.SqlServer.xml
+D:\Develop\OJT\dataService\DataService\DataService\bin\Debug\Newtonsoft.Json.xml
+D:\Develop\OJT\dataService\DataService\DataService\bin\Debug\System.ValueTuple.xml
+D:\Develop\OJT\dataService\DataService\DataService\bin\Debug\System.Web.Helpers.xml
+D:\Develop\OJT\dataService\DataService\DataService\bin\Debug\System.Web.Mvc.xml
+D:\Develop\OJT\dataService\DataService\DataService\bin\Debug\System.Web.Razor.xml
+D:\Develop\OJT\dataService\DataService\DataService\bin\Debug\System.Web.WebPages.xml
+D:\Develop\OJT\dataService\DataService\DataService\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Develop\OJT\dataService\DataService\DataService\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Develop\OJT\dataService\DataService\DataService\obj\Debug\DataService.csproj.CopyComplete
+D:\Develop\OJT\dataService\DataService\DataService\obj\Debug\DataService.dll
+D:\Develop\OJT\dataService\DataService\DataService\obj\Debug\DataService.pdb
+D:\Develop\OJT\dataService\DataService\DataService\bin\Debug\System.Web.Http.Common.dll
+D:\Develop\OJT\dataService\DataService\DataService\bin\Debug\System.Web.Http.Common.xml
+D:\Project Wisky\Data Repository\DataService\DataService\bin\Debug\System.Web.Http.xml
+D:\Project Wisky\Data Repository\DataService\DataService\bin\Debug\System.Web.Http.Common.xml
+D:\Project Wisky\Data Repository\DataService\DataService\bin\Debug\BouncyCastle.Crypto.dll
+F:\Study\OJT\Wisky\DataRepository\DataService\DataService\obj\Debug\DataService.csprojAssemblyReference.cache
+F:\Study\OJT\Wisky\DataRepository\DataService\DataService\obj\Debug\DataService.csproj.CoreCompileInputs.cache
+F:\Study\OJT\Wisky\DataRepository\DataService\DataService\obj\Debug\DataService.dll
+F:\Study\OJT\Wisky\DataRepository\DataService\DataService\obj\Debug\DataService.pdb
+F:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\DataService.dll.config
+F:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\DataService.dll
+F:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\DataService.pdb
+F:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\Autofac.dll
+F:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\Autofac.Integration.Mvc.dll
+F:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\AutoMapper.dll
+F:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\BouncyCastle.Crypto.dll
+F:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\EntityFramework.dll
+F:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\EntityFramework.SqlServer.dll
+F:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\System.Web.Helpers.dll
+F:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\System.Web.Razor.dll
+F:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\System.Web.WebPages.dll
+F:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\System.Web.WebPages.Razor.dll
+F:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\Autofac.xml
+F:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\Autofac.Integration.Mvc.xml
+F:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\AutoMapper.xml
+F:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\EntityFramework.xml
+F:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\EntityFramework.SqlServer.xml
+F:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\System.Web.Helpers.xml
+F:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\System.Web.Razor.xml
+F:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\System.Web.WebPages.xml
+F:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\System.Web.WebPages.Razor.xml
+F:\Study\OJT\Wisky\DataRepository\DataService\DataService\obj\Debug\DataService.csproj.CopyComplete
+E:\Study\OJT\Wisky\DataRepository\DataService\DataService\obj\Debug\DataService.csprojAssemblyReference.cache
+E:\Study\OJT\Wisky\DataRepository\DataService\DataService\obj\Debug\DataService.csproj.CoreCompileInputs.cache
+E:\Study\OJT\Wisky\DataRepository\DataService\DataService\obj\Debug\DataService.dll
+E:\Study\OJT\Wisky\DataRepository\DataService\DataService\obj\Debug\DataService.pdb
+E:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\DataService.dll.config
+E:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\DataService.dll
+E:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\DataService.pdb
+E:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\Autofac.dll
+E:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\Autofac.Integration.Mvc.dll
+E:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\AutoMapper.dll
+E:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\BouncyCastle.Crypto.dll
+E:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\EntityFramework.dll
+E:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\EntityFramework.SqlServer.dll
+E:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\System.Web.Helpers.dll
+E:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\System.Web.Razor.dll
+E:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\System.Web.WebPages.dll
+E:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\Autofac.xml
+E:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\Autofac.Integration.Mvc.xml
+E:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\AutoMapper.xml
+E:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\EntityFramework.xml
+E:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\EntityFramework.SqlServer.xml
+E:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\System.Web.Helpers.xml
+E:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\System.Web.Razor.xml
+E:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\System.Web.WebPages.xml
+E:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Study\OJT\Wisky\DataRepository\DataService\DataService\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Study\OJT\Wisky\DataRepository\DataService\DataService\obj\Debug\DataService.csproj.CopyComplete
+D:\Project\OJT\dataService\DataService\DataService\bin\Debug\Redis.Cache.dll
+D:\Project\OJT\dataService\DataService\DataService\bin\Debug\Redis.Cache.pdb
+L:\UniIncubator\workspace\SkyConnectClient\Wisky\DataRepository\DataService\DataService\obj\Debug\DataService.csprojResolveAssemblyReference.cache
+L:\UniIncubator\workspace\SkyConnectClient\Wisky\DataRepository\DataService\DataService\obj\Debug\DataService.csproj.CoreCompileInputs.cache
+L:\UniIncubator\workspace\SkyConnectClient\Wisky\DataRepository\DataService\DataService\obj\Debug\DataService.dll
+L:\UniIncubator\workspace\SkyConnectClient\Wisky\DataRepository\DataService\DataService\obj\Debug\DataService.pdb
+L:\UniIncubator\workspace\SkyConnectClient\Wisky\DataRepository\DataService\DataService\bin\Debug\DataService.dll.config
+L:\UniIncubator\workspace\SkyConnectClient\Wisky\DataRepository\DataService\DataService\bin\Debug\DataService.dll
+L:\UniIncubator\workspace\SkyConnectClient\Wisky\DataRepository\DataService\DataService\bin\Debug\DataService.pdb
+L:\UniIncubator\workspace\SkyConnectClient\Wisky\DataRepository\DataService\DataService\bin\Debug\Autofac.dll
+L:\UniIncubator\workspace\SkyConnectClient\Wisky\DataRepository\DataService\DataService\bin\Debug\Autofac.Integration.Mvc.dll
+L:\UniIncubator\workspace\SkyConnectClient\Wisky\DataRepository\DataService\DataService\bin\Debug\AutoMapper.dll
+L:\UniIncubator\workspace\SkyConnectClient\Wisky\DataRepository\DataService\DataService\bin\Debug\EntityFramework.dll
+L:\UniIncubator\workspace\SkyConnectClient\Wisky\DataRepository\DataService\DataService\bin\Debug\EntityFramework.SqlServer.dll
+L:\UniIncubator\workspace\SkyConnectClient\Wisky\DataRepository\DataService\DataService\bin\Debug\Microsoft.Web.Infrastructure.dll
+L:\UniIncubator\workspace\SkyConnectClient\Wisky\DataRepository\DataService\DataService\bin\Debug\System.Web.Helpers.dll
+L:\UniIncubator\workspace\SkyConnectClient\Wisky\DataRepository\DataService\DataService\bin\Debug\System.Web.Razor.dll
+L:\UniIncubator\workspace\SkyConnectClient\Wisky\DataRepository\DataService\DataService\bin\Debug\System.Web.WebPages.Deployment.dll
+L:\UniIncubator\workspace\SkyConnectClient\Wisky\DataRepository\DataService\DataService\bin\Debug\System.Web.WebPages.dll
+L:\UniIncubator\workspace\SkyConnectClient\Wisky\DataRepository\DataService\DataService\bin\Debug\System.Web.WebPages.Razor.dll
+L:\UniIncubator\workspace\SkyConnectClient\Wisky\DataRepository\DataService\DataService\bin\Debug\Autofac.xml
+L:\UniIncubator\workspace\SkyConnectClient\Wisky\DataRepository\DataService\DataService\bin\Debug\Autofac.Integration.Mvc.xml
+L:\UniIncubator\workspace\SkyConnectClient\Wisky\DataRepository\DataService\DataService\bin\Debug\AutoMapper.xml
+L:\UniIncubator\workspace\SkyConnectClient\Wisky\DataRepository\DataService\DataService\bin\Debug\EntityFramework.xml
+L:\UniIncubator\workspace\SkyConnectClient\Wisky\DataRepository\DataService\DataService\bin\Debug\EntityFramework.SqlServer.xml
+L:\UniIncubator\workspace\SkyConnectClient\Wisky\DataRepository\DataService\DataService\bin\Debug\Newtonsoft.Json.xml
+L:\UniIncubator\workspace\SkyConnectClient\Wisky\DataRepository\DataService\DataService\bin\Debug\Redis.Cache.pdb
+L:\UniIncubator\workspace\SkyConnectClient\Wisky\DataRepository\DataService\DataService\bin\Debug\StackExchange.Redis.xml
+L:\UniIncubator\workspace\SkyConnectClient\Wisky\DataRepository\DataService\DataService\bin\Debug\System.ValueTuple.xml
+L:\UniIncubator\workspace\SkyConnectClient\Wisky\DataRepository\DataService\DataService\bin\Debug\System.Web.Helpers.xml
+L:\UniIncubator\workspace\SkyConnectClient\Wisky\DataRepository\DataService\DataService\bin\Debug\System.Web.Razor.xml
+L:\UniIncubator\workspace\SkyConnectClient\Wisky\DataRepository\DataService\DataService\bin\Debug\System.Web.WebPages.xml
+L:\UniIncubator\workspace\SkyConnectClient\Wisky\DataRepository\DataService\DataService\bin\Debug\System.Web.WebPages.Deployment.xml
+L:\UniIncubator\workspace\SkyConnectClient\Wisky\DataRepository\DataService\DataService\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Project\OJT\dataService\DataService\DataService\bin\Debug\Newtonsoft.Json.dll
+D:\Project\OJT\dataService\DataService\DataService\bin\Debug\BouncyCastle.Crypto.dll
+D:\Project\OJT\dataService\DataService\DataService\bin\Debug\StackExchange.Redis.dll
+D:\Project\OJT\dataService\DataService\DataService\bin\Debug\StackExchange.Redis.xml
+D:\Project\OJT\dataservice\DataService\DataService\bin\Debug\System.Net.Http.Extensions.dll
+D:\Project\OJT\dataservice\DataService\DataService\bin\Debug\System.Net.Http.Formatting.dll
+D:\Project\OJT\dataservice\DataService\DataService\bin\Debug\System.Net.Http.Primitives.dll
+D:\Project\OJT\dataservice\DataService\DataService\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Project\OJT\dataservice\DataService\DataService\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Project\OJT\dataservice\DataService\DataService\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Project\OJT\dataservice\DataService\DataService\bin\Debug\Microsoft.Owin.dll
+D:\Project\OJT\dataservice\DataService\DataService\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Project\OJT\dataservice\DataService\DataService\bin\Debug\Microsoft.Owin.Security.dll
+D:\Project\OJT\dataservice\DataService\DataService\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Project\OJT\dataservice\DataService\DataService\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Project\OJT\dataservice\DataService\DataService\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Project\OJT\dataservice\DataService\DataService\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Project\OJT\dataservice\DataService\DataService\bin\Debug\Microsoft.Owin.xml
+D:\Project\OJT\dataservice\DataService\DataService\bin\Debug\Microsoft.Owin.Security.xml
+D:\Project\OJT\dataservice\DataService\DataService\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Project\OJT\dataservice\DataService\DataService\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\OJT\dataService\DataService\DataService\bin\Debug\DataService.dll.config
+D:\OJT\dataService\DataService\DataService\bin\Debug\DataService.dll
+D:\OJT\dataService\DataService\DataService\bin\Debug\DataService.pdb
+D:\OJT\dataService\DataService\DataService\bin\Debug\Autofac.dll
+D:\OJT\dataService\DataService\DataService\bin\Debug\Autofac.Integration.Mvc.dll
+D:\OJT\dataService\DataService\DataService\bin\Debug\AutoMapper.dll
+D:\OJT\dataService\DataService\DataService\bin\Debug\BouncyCastle.Crypto.dll
+D:\OJT\dataService\DataService\DataService\bin\Debug\EntityFramework.dll
+D:\OJT\dataService\DataService\DataService\bin\Debug\EntityFramework.SqlServer.dll
+D:\OJT\dataService\DataService\DataService\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\OJT\dataService\DataService\DataService\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\OJT\dataService\DataService\DataService\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\OJT\dataService\DataService\DataService\bin\Debug\Microsoft.Owin.dll
+D:\OJT\dataService\DataService\DataService\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\OJT\dataService\DataService\DataService\bin\Debug\Microsoft.Owin.Security.dll
+D:\OJT\dataService\DataService\DataService\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\OJT\dataService\DataService\DataService\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\OJT\dataService\DataService\DataService\bin\Debug\Newtonsoft.Json.dll
+D:\OJT\dataService\DataService\DataService\bin\Debug\Redis.Cache.dll
+D:\OJT\dataService\DataService\DataService\bin\Debug\StackExchange.Redis.dll
+D:\OJT\dataService\DataService\DataService\bin\Debug\System.Net.Http.Extensions.dll
+D:\OJT\dataService\DataService\DataService\bin\Debug\System.Net.Http.Formatting.dll
+D:\OJT\dataService\DataService\DataService\bin\Debug\System.Net.Http.Primitives.dll
+D:\OJT\dataService\DataService\DataService\bin\Debug\System.ValueTuple.dll
+D:\OJT\dataService\DataService\DataService\bin\Debug\System.Web.Helpers.dll
+D:\OJT\dataService\DataService\DataService\bin\Debug\System.Web.Mvc.dll
+D:\OJT\dataService\DataService\DataService\bin\Debug\System.Web.Razor.dll
+D:\OJT\dataService\DataService\DataService\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\OJT\dataService\DataService\DataService\bin\Debug\System.Web.WebPages.dll
+D:\OJT\dataService\DataService\DataService\bin\Debug\System.Web.WebPages.Razor.dll
+D:\OJT\dataService\DataService\DataService\bin\Debug\Autofac.xml
+D:\OJT\dataService\DataService\DataService\bin\Debug\Autofac.Integration.Mvc.xml
+D:\OJT\dataService\DataService\DataService\bin\Debug\AutoMapper.xml
+D:\OJT\dataService\DataService\DataService\bin\Debug\EntityFramework.xml
+D:\OJT\dataService\DataService\DataService\bin\Debug\EntityFramework.SqlServer.xml
+D:\OJT\dataService\DataService\DataService\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\OJT\dataService\DataService\DataService\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\OJT\dataService\DataService\DataService\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\OJT\dataService\DataService\DataService\bin\Debug\Microsoft.Owin.xml
+D:\OJT\dataService\DataService\DataService\bin\Debug\Microsoft.Owin.Security.xml
+D:\OJT\dataService\DataService\DataService\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\OJT\dataService\DataService\DataService\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\OJT\dataService\DataService\DataService\bin\Debug\Newtonsoft.Json.xml
+D:\OJT\dataService\DataService\DataService\bin\Debug\Redis.Cache.pdb
+D:\OJT\dataService\DataService\DataService\bin\Debug\StackExchange.Redis.xml
+D:\OJT\dataService\DataService\DataService\bin\Debug\System.ValueTuple.xml
+D:\OJT\dataService\DataService\DataService\bin\Debug\System.Web.Helpers.xml
+D:\OJT\dataService\DataService\DataService\bin\Debug\System.Web.Mvc.xml
+D:\OJT\dataService\DataService\DataService\bin\Debug\System.Web.Razor.xml
+D:\OJT\dataService\DataService\DataService\bin\Debug\System.Web.WebPages.xml
+D:\OJT\dataService\DataService\DataService\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\OJT\dataService\DataService\DataService\bin\Debug\System.Web.WebPages.Razor.xml
+D:\OJT\dataService\DataService\DataService\obj\Debug\DataService.csprojAssemblyReference.cache
+D:\OJT\dataService\DataService\DataService\obj\Debug\DataService.csproj.CoreCompileInputs.cache
+D:\OJT\dataService\DataService\DataService\obj\Debug\DataService.csproj.CopyComplete
+D:\OJT\dataService\DataService\DataService\obj\Debug\DataService.dll
+D:\OJT\dataService\DataService\DataService\obj\Debug\DataService.pdb
+D:\Libary\DataService\DataService\bin\Debug\DataService.dll.config
+D:\Libary\DataService\DataService\bin\Debug\DataService.dll
+D:\Libary\DataService\DataService\bin\Debug\DataService.pdb
+D:\Libary\DataService\DataService\bin\Debug\Autofac.dll
+D:\Libary\DataService\DataService\bin\Debug\Autofac.Integration.Mvc.dll
+D:\Libary\DataService\DataService\bin\Debug\AutoMapper.dll
+D:\Libary\DataService\DataService\bin\Debug\EntityFramework.dll
+D:\Libary\DataService\DataService\bin\Debug\EntityFramework.SqlServer.dll
+D:\Libary\DataService\DataService\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Libary\DataService\DataService\bin\Debug\System.Web.Helpers.dll
+D:\Libary\DataService\DataService\bin\Debug\System.Web.Razor.dll
+D:\Libary\DataService\DataService\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Libary\DataService\DataService\bin\Debug\System.Web.WebPages.dll
+D:\Libary\DataService\DataService\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Libary\DataService\DataService\bin\Debug\Autofac.xml
+D:\Libary\DataService\DataService\bin\Debug\Autofac.Integration.Mvc.xml
+D:\Libary\DataService\DataService\bin\Debug\AutoMapper.xml
+D:\Libary\DataService\DataService\bin\Debug\EntityFramework.xml
+D:\Libary\DataService\DataService\bin\Debug\EntityFramework.SqlServer.xml
+D:\Libary\DataService\DataService\bin\Debug\System.Web.Helpers.xml
+D:\Libary\DataService\DataService\bin\Debug\System.Web.Razor.xml
+D:\Libary\DataService\DataService\bin\Debug\System.Web.WebPages.xml
+D:\Libary\DataService\DataService\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Libary\DataService\DataService\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Libary\DataService\DataService\obj\Debug\DataService.csprojAssemblyReference.cache
+D:\Libary\DataService\DataService\obj\Debug\DataService.csproj.CoreCompileInputs.cache
+D:\Libary\DataService\DataService\obj\Debug\DataService.csproj.CopyComplete
+D:\Libary\DataService\DataService\obj\Debug\DataService.dll
+D:\Libary\DataService\DataService\obj\Debug\DataService.pdb
+D:\Libary\SkyConnectAPI\DataService\bin\Debug\DataService.dll.config
+D:\Libary\SkyConnectAPI\DataService\bin\Debug\DataService.dll
+D:\Libary\SkyConnectAPI\DataService\bin\Debug\DataService.pdb
+D:\Libary\SkyConnectAPI\DataService\bin\Debug\Autofac.dll
+D:\Libary\SkyConnectAPI\DataService\bin\Debug\Autofac.Integration.Mvc.dll
+D:\Libary\SkyConnectAPI\DataService\bin\Debug\AutoMapper.dll
+D:\Libary\SkyConnectAPI\DataService\bin\Debug\EntityFramework.dll
+D:\Libary\SkyConnectAPI\DataService\bin\Debug\EntityFramework.SqlServer.dll
+D:\Libary\SkyConnectAPI\DataService\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Libary\SkyConnectAPI\DataService\bin\Debug\System.Web.Helpers.dll
+D:\Libary\SkyConnectAPI\DataService\bin\Debug\System.Web.Razor.dll
+D:\Libary\SkyConnectAPI\DataService\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Libary\SkyConnectAPI\DataService\bin\Debug\System.Web.WebPages.dll
+D:\Libary\SkyConnectAPI\DataService\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Libary\SkyConnectAPI\DataService\bin\Debug\Autofac.xml
+D:\Libary\SkyConnectAPI\DataService\bin\Debug\Autofac.Integration.Mvc.xml
+D:\Libary\SkyConnectAPI\DataService\bin\Debug\AutoMapper.xml
+D:\Libary\SkyConnectAPI\DataService\bin\Debug\EntityFramework.xml
+D:\Libary\SkyConnectAPI\DataService\bin\Debug\EntityFramework.SqlServer.xml
+D:\Libary\SkyConnectAPI\DataService\bin\Debug\System.Web.Helpers.xml
+D:\Libary\SkyConnectAPI\DataService\bin\Debug\System.Web.Razor.xml
+D:\Libary\SkyConnectAPI\DataService\bin\Debug\System.Web.WebPages.xml
+D:\Libary\SkyConnectAPI\DataService\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Libary\SkyConnectAPI\DataService\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Libary\SkyConnectAPI\DataService\obj\Debug\DataService.csproj.CoreCompileInputs.cache
+D:\Libary\SkyConnectAPI\DataService\obj\Debug\DataService.csproj.CopyComplete
+D:\Libary\SkyConnectAPI\DataService\obj\Debug\DataService.dll
+D:\Libary\SkyConnectAPI\DataService\obj\Debug\DataService.pdb
+D:\Libary\SkyConnectAPI\DataService\obj\Debug\DataService.csprojAssemblyReference.cache

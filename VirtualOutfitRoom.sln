@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainAPI", "MainAPI\MainAPI.csproj", "{256032B5-7B7E-48FA-90F6-F067DE7654DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataService", "DataService\DataService.csproj", "{6625BD94-74BC-47DA-AA23-035836F32161}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{256032B5-7B7E-48FA-90F6-F067DE7654DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{256032B5-7B7E-48FA-90F6-F067DE7654DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{256032B5-7B7E-48FA-90F6-F067DE7654DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{256032B5-7B7E-48FA-90F6-F067DE7654DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6625BD94-74BC-47DA-AA23-035836F32161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6625BD94-74BC-47DA-AA23-035836F32161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6625BD94-74BC-47DA-AA23-035836F32161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6625BD94-74BC-47DA-AA23-035836F32161}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F72240B-4995-4542-BF89-55F5F1987464}
+	EndGlobalSection
+EndGlobal
